@@ -6,7 +6,7 @@ Wrapper DLL tool that can force **DLAA** onto DLSS-supported titles, along with 
 
 ## 🔗 Get the Latest Release
 
-* [📦 View All Releases]()
+* [📦 View All Releases](https://github.com/DLSSTweaks/.github/releases)
 
 ---
 
